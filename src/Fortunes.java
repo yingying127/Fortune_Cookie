@@ -12,7 +12,7 @@ public class Fortunes {
             "Change can hurt, but it leads a path to something better.",
             "Enjoy the good luck a companion brings you.",
             "People are naturally attracted to you.",
-            "You smell bad."};
+            "You smell good."};
     public static void main(String[] args) {
         Random rand = new Random();
 //        int r = rand.nextInt(6); -> See if the random number is outputting correctly
