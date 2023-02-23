@@ -20,6 +20,6 @@ public class Fortunes {
 //        System.out.println(fortunes.length); -> Checks the length to see if it is correct
 //        System.out.println(fortunes[1]); -> Checks if the fortune arr is correct
 //        System.out.println(r); -> Checks if the random number is working
-        System.out.println(fortunes[r]);
+        System.out.println("Your fortune cookie says: " + fortunes[r]);
     }
 }
